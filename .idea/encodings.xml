@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/01_loop/01_main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/01_loop/dhfkjdsh.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/01_class.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/02_function.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/03_memberAcces.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/04_classFunction.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/04_classFunction_xigou.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/05_classcopy.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/06_friendfunction.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/07_inline.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/08_this.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/09_classptr.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/10_staticmember.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/11_inherit.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02_face/12_reload.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/03_advanced/03_dynamicmem.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/03_advanced/05_threading.cpp" charset="GBK" />
+  </component>
+</project>
