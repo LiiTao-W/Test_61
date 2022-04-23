@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Desktop/car/C++/Test_61/02_face/04_classFunction_xigou.cpp
+iostream
+-
+class_function.h
+F:/Desktop/car/C++/Test_61/02_face/class_function.h
+
+F:/Desktop/car/C++/Test_61/02_face/class_function.h
+iostream
+-
+cstdio
+-
+

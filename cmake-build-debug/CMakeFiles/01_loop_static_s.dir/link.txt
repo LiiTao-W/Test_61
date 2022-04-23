@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\01_loop_static_s.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\01_loop_static_s.dir/objects.a @CMakeFiles\01_loop_static_s.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\01_loop_static_s.dir/objects.a -Wl,--no-whole-archive -o 01_loop_static_s.exe -Wl,--out-implib,lib01_loop_static_s.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\01_loop_static_s.dir\linklibs.rsp
